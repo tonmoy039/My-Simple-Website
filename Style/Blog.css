@@ -1,4 +1,7 @@
 div{
     background-color: aquamarine;
     padding: 10 px;
+    border: 10px Solid red;
+    margin-bottom: 10 px;
+    border-style: dotted;
 }
